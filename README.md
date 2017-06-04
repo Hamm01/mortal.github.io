@@ -2,7 +2,7 @@
 
 You can See  the live website  [Live here](https://hamm01.github.io/mortal.github.io/doc/)
 
-See My portfolio here [Hammylogics.com](https://hamm01.github.io/precision/src/)
+See My portfolio here [Hammylogics](https://hamm01.github.io/precision/src/)
 ![Sample Portfolio](https://hamm01.github.io/mortal.github.io/Screenshot.png)
 
 ### Support or Contact
