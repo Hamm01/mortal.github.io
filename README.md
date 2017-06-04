@@ -1,9 +1,9 @@
 ## Welcome to HammyLogics pages
 
-You can See  the live website  [Live here](https://hamm01.github.io/mortal.github.io/doc/) 
+You can See  the live website  [Live here](https://hamm01.github.io/mortal.github.io/doc/)
 
 Whenever you commit to this repository, GitHub Pages will run to rebuild the pages in your site, from the content in your Markdown files.
-
+![Sample Portfolio]()
 
 ### Support or Contact
 
