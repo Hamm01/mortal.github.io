@@ -2,9 +2,10 @@
 
 You can See  the live website  [Live here](https://hamm01.github.io/mortal.github.io/doc/)
 
-Whenever you commit to this repository, GitHub Pages will run to rebuild the pages in your site, from the content in your Markdown files.
+See My portfolio here [Hammylogics.com](https://hamm01.github.io/precision/src/)
 ![Sample Portfolio](https://hamm01.github.io/mortal.github.io/Screenshot.png)
 
 ### Support or Contact
+If u need any Help related to my work
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out [Contact Me](http://hammylogics.com/) or [Mail Me](mailto:contactme@hammylogics.com) and I’ll help you sort it out.
